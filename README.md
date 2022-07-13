@@ -1,5 +1,5 @@
 
-# Tribute to sambista Zeca Pagodinho
+# Tribute to Brazilian musician Zeca Pagodinho.
 
 Site created for the purpose of studying HTML and CSS telling a little about the history of Brazilian musician Zeca Pagodinho.
 
