@@ -4,7 +4,7 @@
 Site created for the purpose of studying HTML and CSS telling a little about the history of Brazilian musician Zeca Pagodinho.
 
 ## Screenshots
-![App Screenshot](https://i.imgur.com/WJecm4m.png)
+![App Screenshot](https://imgur.com/gGzoaiz)
      
 ![App Screenshot](https://i.imgur.com/fmqrcTE.jpg)
 
